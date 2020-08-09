@@ -1,7 +1,6 @@
 playGame = True
 while playGame == True:
-    for i in range(100):
-            print("")
+
     print("Welcome to TIC TAC TOE!")
     print("By Alejandro Sardi")
     print(" ")
